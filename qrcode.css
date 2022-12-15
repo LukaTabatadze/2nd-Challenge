@@ -1,0 +1,43 @@
+body {background-color: hsl(218, 44%, 22%);}
+ img {
+        background-color: hsl(218, 44%, 22%);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 10px;
+    }
+    
+    div {
+        background-color: hsl(218, 44%, 22%);
+        width: 320px;
+        height: 497px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        border-radius: 20px;
+    }
+    
+    .card {
+        height: 400px;
+        width: 270px;
+        border-radius: 20px;
+        margin-top: 20px;
+        background-color: white;
+        
+    }
+    
+    @font-face {
+        font-family: sans-serif;
+        src: url(url("fde10d350ab600927ff6ba4446dd4216.woff") format("woff"));
+    }
+    
+   p{font: oblique;
+    color: rgb(151, 159, 173);
+    border-radius: 10px;
+    border-spacing: 10px;
+    padding: 10 px;}
+    h2{font:bold;
+    color: hsl(218, 44%, 22%);
+    border-radius: 10px;
+    border-spacing: 10px;
+padding: 0px;} 
